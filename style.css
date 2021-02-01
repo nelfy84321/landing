@@ -518,7 +518,7 @@ header {
 		flex-flow: column;
 	}
 
-	.header-top > button.try-btn {
+	.header-top .try-btn {
 		display: none;
 	}
 
