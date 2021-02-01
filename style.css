@@ -13,8 +13,8 @@
 }
 
 header {
-	background: center no-repeat url(./Layer3.png), center no-repeat url(./VectorSmartObject2.png),
-		bottom repeat-x url(./Layer5.png);
+	background: center no-repeat url(./bgPic/Layer3.png), center no-repeat url(./bgPic/VectorSmartObject2.png),
+		bottom repeat-x url(./bgPic/Layer5.png);
 }
 
 .header-top {
@@ -52,7 +52,7 @@ header {
 }
 
 .btn-section > .try-btn {
-	margin-left: 20px;
+	margin-left: 10px;
 }
 
 .header-main {
@@ -130,7 +130,7 @@ header {
 .header-main-text__phone {
 	height: 800px;
 	width: 450px;
-	background-image: url(./VectorSmartObject.png);
+	background-image: url(./bgPic/VectorSmartObject.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -193,7 +193,7 @@ header {
 }
 
 .features-phone {
-	background-image: url(./Group90.png);
+	background-image: url(./bgPic/Group90.png);
 	background-position-x: right;
 	background-repeat: no-repeat;
 	flex: auto;
@@ -329,7 +329,7 @@ header {
 }
 
 .design-section__logo {
-	background-image: url(./Layer6.png);
+	background-image: url(./bgPic/Layer6.png);
 	background-repeat: no-repeat;
 	background-position-x: right;
 	flex: 40% 1 0;
@@ -507,7 +507,7 @@ header {
 
 .ultimate-section-phone {
 	flex: 0% 1 1;
-	background-image: url(./Phonecopy4.png);
+	background-image: url(./bgPic/Phonecopy4.png);
 	background-position: left;
 	background-repeat: no-repeat;
 }
