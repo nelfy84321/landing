@@ -1,5 +1,5 @@
-# Landing\
+# Landing
 
-Super simple landing with unoerfect css structure just for fun.
+Super simple landing with imperfect css file structure just for fun.
 
 ###### site is published at https://nelfy84321.github.io/landing/
